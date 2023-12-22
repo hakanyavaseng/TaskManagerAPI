@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TaskManager.API</name>
+    </assembly>
+    <members>
+        <member name="M:TaskManager.API.Controllers.TasksController.GetAll">
+            <summary>
+            Brings all tasks.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManager.API.Controllers.TasksController.GetById(System.Int32)">
+            <summary>
+            Brings task by ID.
+            </summary>
+            <param name="id">ID of task</param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManager.API.Controllers.TasksController.AddTask(TaskManager.Entities.Tasks)">
+            <summary>
+            Adds new task.
+            </summary>
+            <param name="task"></param>
+        </member>
+        <member name="M:TaskManager.API.Controllers.TasksController.UpdateTask(TaskManager.Entities.Tasks)">
+            <summary>
+            Updates task.
+            </summary>
+            <param name="task"></param>
+        </member>
+        <member name="M:TaskManager.API.Controllers.TasksController.DeleteTask(System.Int32)">
+            <summary>
+            Deletes task by ID.
+            </summary>
+            <param name="id">ID of task to be deleted</param>
+        </member>
+        <member name="M:TaskManager.API.Controllers.UsersControllers.GetAll">
+            <summary>
+            Gets all users.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManager.API.Controllers.UsersControllers.GetById(System.Int32)">
+            <summary>
+            Gets user by ID.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TaskManager.API.Controllers.UsersControllers.AddUser(TaskManager.Entities.Users)">
+            <summary>
+            Adds new user.
+            </summary>
+            <param name="user"></param>
+        </member>
+        <member name="M:TaskManager.API.Controllers.UsersControllers.UpdateUser(TaskManager.Entities.Users)">
+            <summary>
+            Updates user.
+            </summary>
+            <param name="user"></param>
+        </member>
+        <member name="M:TaskManager.API.Controllers.UsersControllers.DeleteUser(System.Int32)">
+            <summary>
+            Deletes user by ID.
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>
