@@ -12,3 +12,17 @@ C:\Users\hakan\OneDrive\Belgeler\Projects\TaskManager\TaskManager.Entities\obj\D
 C:\Users\hakan\OneDrive\Belgeler\Projects\TaskManager\TaskManager.Entities\obj\Debug\net6.0\TaskManager.Entities.pdb
 C:\Users\hakan\OneDrive\Belgeler\Projects\TaskManager\TaskManager.Entities\obj\Debug\net6.0\TaskManager.Entities.genruntimeconfig.cache
 C:\Users\hakan\OneDrive\Belgeler\Projects\TaskManager\TaskManager.Entities\obj\Debug\net6.0\ref\TaskManager.Entities.dll
+C:\Users\hakan\OneDrive\Belgeler\Github_Repositories\PitonTechnology-TaskManager\TaskManager\TaskManager.Entities\bin\Debug\net6.0\TaskManager.Entities.deps.json
+C:\Users\hakan\OneDrive\Belgeler\Github_Repositories\PitonTechnology-TaskManager\TaskManager\TaskManager.Entities\bin\Debug\net6.0\TaskManager.Entities.runtimeconfig.json
+C:\Users\hakan\OneDrive\Belgeler\Github_Repositories\PitonTechnology-TaskManager\TaskManager\TaskManager.Entities\bin\Debug\net6.0\TaskManager.Entities.dll
+C:\Users\hakan\OneDrive\Belgeler\Github_Repositories\PitonTechnology-TaskManager\TaskManager\TaskManager.Entities\bin\Debug\net6.0\TaskManager.Entities.pdb
+C:\Users\hakan\OneDrive\Belgeler\Github_Repositories\PitonTechnology-TaskManager\TaskManager\TaskManager.Entities\obj\Debug\net6.0\TaskManager.Entities.csproj.AssemblyReference.cache
+C:\Users\hakan\OneDrive\Belgeler\Github_Repositories\PitonTechnology-TaskManager\TaskManager\TaskManager.Entities\obj\Debug\net6.0\TaskManager.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\OneDrive\Belgeler\Github_Repositories\PitonTechnology-TaskManager\TaskManager\TaskManager.Entities\obj\Debug\net6.0\TaskManager.Entities.AssemblyInfoInputs.cache
+C:\Users\hakan\OneDrive\Belgeler\Github_Repositories\PitonTechnology-TaskManager\TaskManager\TaskManager.Entities\obj\Debug\net6.0\TaskManager.Entities.AssemblyInfo.cs
+C:\Users\hakan\OneDrive\Belgeler\Github_Repositories\PitonTechnology-TaskManager\TaskManager\TaskManager.Entities\obj\Debug\net6.0\TaskManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hakan\OneDrive\Belgeler\Github_Repositories\PitonTechnology-TaskManager\TaskManager\TaskManager.Entities\obj\Debug\net6.0\TaskManager.Entities.dll
+C:\Users\hakan\OneDrive\Belgeler\Github_Repositories\PitonTechnology-TaskManager\TaskManager\TaskManager.Entities\obj\Debug\net6.0\refint\TaskManager.Entities.dll
+C:\Users\hakan\OneDrive\Belgeler\Github_Repositories\PitonTechnology-TaskManager\TaskManager\TaskManager.Entities\obj\Debug\net6.0\TaskManager.Entities.pdb
+C:\Users\hakan\OneDrive\Belgeler\Github_Repositories\PitonTechnology-TaskManager\TaskManager\TaskManager.Entities\obj\Debug\net6.0\TaskManager.Entities.genruntimeconfig.cache
+C:\Users\hakan\OneDrive\Belgeler\Github_Repositories\PitonTechnology-TaskManager\TaskManager\TaskManager.Entities\obj\Debug\net6.0\ref\TaskManager.Entities.dll

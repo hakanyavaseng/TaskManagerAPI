@@ -35,6 +35,16 @@
             </summary>
             <param name="id">ID of task to be deleted</param>
         </member>
+        <member name="M:TaskManager.API.Controllers.TasksController.GetTasksInOneWeek">
+            <summary>
+            Brings tasks by deadline which is given as parameter.
+            </summary>
+        </member>
+        <member name="M:TaskManager.API.Controllers.TasksController.GetTasksInOneMonth">
+            <summary>
+            Brings tasks by deadline which is given as parameter.
+            </summary>
+        </member>
         <member name="M:TaskManager.API.Controllers.UsersControllers.GetAll">
             <summary>
             Gets all users.

@@ -45,6 +45,25 @@ namespace TaskManager.Business.Concrete
             return _tasksRepository.GetTaskById(id);
         }
 
+        public List<Tasks> GetTasksInOneMonth()
+        {
+            DateTime oneMonthFromNow = DateTime.Now.AddMonths(1);
+            return _tasksRepository.GetTasksByDeadline(oneMonthFromNow);
+        }
+
+        public List<Tasks> GetTasksInOneWeek()
+        {
+            DateTime oneWeekFromNow = DateTime.Now.AddDays(7);
+            return _tasksRepository.GetTasksByDeadline(oneWeekFromNow);
+        }
+
+        public List<Tasks> GetTasksInToday()
+        {
+            DateTime today = DateTime.Now;
+            return _tasksRepository.GetTasksByDeadline(today);
+            
+        }
+
         public Tasks UpdateTask(Tasks task)
         {
             return _tasksRepository.UpdateTask(task);

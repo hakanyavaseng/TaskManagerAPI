@@ -60,5 +60,16 @@ namespace TaskManager.DataAccess.Concrete
                 return task;
             }
         }
+
+        public List<Tasks> GetTasksByDeadline(DateTime deadline)
+        {
+            using (var context = new TaskManagerDbContext())
+            {
+                List<Tasks> tasks = context.Tasks.Where(t => t.TaskEndDate <= deadline).ToList();
+                return tasks;
+            }
+          
+        }
+
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1qhvgPeyB8xONAdwLDoI17zLARxUZiZmWqbtefh1vAU6XdeUXmLXqQ406wWrz/a3SOdqD6k5Bjr5zQ47zondiQ==",
+  "dgSpecHash": "rUdvdOfukzt6jBnqPTA5BwLluY7FaopBWuhc3iKyUKFYiMOsrZZ3IWSXGZp6qxuAI9T4TZAW0PiNXw5pouIhSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.DataAccess\\TaskManager.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.DataAccess\\TaskManager.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hakan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hakan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.API\\TaskManager.API.csproj": {}
+    "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.API\\TaskManager.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.API\\TaskManager.API.csproj": {
+    "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.API\\TaskManager.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.API\\TaskManager.API.csproj",
+        "projectUniqueName": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.API\\TaskManager.API.csproj",
         "projectName": "TaskManager.API",
-        "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.API\\TaskManager.API.csproj",
+        "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.API\\TaskManager.API.csproj",
         "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.API\\obj\\",
+        "outputPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Business\\TaskManager.Business.csproj": {
-                "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Business\\TaskManager.Business.csproj"
+              "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Business\\TaskManager.Business.csproj": {
+                "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Business\\TaskManager.Business.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Business\\TaskManager.Business.csproj": {
+    "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Business\\TaskManager.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Business\\TaskManager.Business.csproj",
+        "projectUniqueName": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Business\\TaskManager.Business.csproj",
         "projectName": "TaskManager.Business",
-        "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Business\\TaskManager.Business.csproj",
+        "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Business\\TaskManager.Business.csproj",
         "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Business\\obj\\",
+        "outputPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -108,11 +108,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.DataAccess\\TaskManager.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.DataAccess\\TaskManager.DataAccess.csproj"
+              "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.DataAccess\\TaskManager.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.DataAccess\\TaskManager.DataAccess.csproj"
               },
-              "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj": {
-                "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj"
+              "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj": {
+                "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj"
               }
             }
           }
@@ -166,14 +166,14 @@
         }
       }
     },
-    "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.DataAccess\\TaskManager.DataAccess.csproj": {
+    "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.DataAccess\\TaskManager.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.DataAccess\\TaskManager.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.DataAccess\\TaskManager.DataAccess.csproj",
         "projectName": "TaskManager.DataAccess",
-        "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.DataAccess\\TaskManager.DataAccess.csproj",
+        "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.DataAccess\\TaskManager.DataAccess.csproj",
         "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -194,8 +194,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj": {
-                "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj"
+              "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj": {
+                "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj"
               }
             }
           }
@@ -249,14 +249,14 @@
         }
       }
     },
-    "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj": {
+    "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj",
         "projectName": "TaskManager.Entities",
-        "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj",
+        "projectPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj",
         "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Entities\\obj\\",
+        "outputPath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

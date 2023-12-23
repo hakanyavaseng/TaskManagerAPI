@@ -10,14 +10,11 @@ namespace TaskManager.DataAccess.Abstract
     public interface ITasksRepository
     {
         List<Tasks> GetAllTasks();
-
         Tasks GetTaskById(int id);
-
         Tasks CreateTask(Tasks task);
-
         Tasks UpdateTask(Tasks task);
-
         void DeleteTask(int id);
+        List<Tasks> GetTasksByDeadline(DateTime deadline);
 
 
     }

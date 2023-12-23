@@ -14,9 +14,8 @@ namespace TaskManager.Business.Abstract
         Tasks CreateTask(Tasks task);
         Tasks UpdateTask(Tasks task);
         void DeleteTask(int id);
-
-
-
-
+        public List<Tasks> GetTasksInOneWeek();
+        public List<Tasks> GetTasksInOneMonth();
+        public List<Tasks> GetTasksInToday();
     }
 }

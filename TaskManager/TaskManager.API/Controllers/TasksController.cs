@@ -70,8 +70,34 @@ namespace TaskManager.API.Controllers
             _tasksService.DeleteTask(id);
         }
 
-      
 
+        /// <summary>
+        /// Brings tasks by deadline which is given as parameter.
+        /// </summary>
+        [HttpGet("today")]
+        public void GetTasksInOneDay()
+        {
+            _tasksService.GetTasksInToday();
+        }
+
+        /// <summary>
+        /// Brings tasks by deadline which is given as parameter.
+        /// </summary>
+        [HttpGet("oneweek")]
+        public void GetTasksInOneWeek()
+        {
+            _tasksService.GetTasksInOneWeek();
+        }
+
+        /// <summary>
+        /// Brings tasks by deadline which is given as parameter.
+        /// </summary>
+        [HttpGet("onemonth")]
+        public void GetTasksInOneMonth()
+        {
+            _tasksService.GetTasksInOneMonth();
+        }
+        
 
 
 

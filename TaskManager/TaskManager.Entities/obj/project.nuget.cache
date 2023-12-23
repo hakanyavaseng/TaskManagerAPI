@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dDQ9lTxWTteoj3vvTbV4WCoGdzZ3e6IRjGVnO1inGHPs13b/aMnPjG4Xr1DcVgBjEC1UoHY4y3IylpwyOoHzxw==",
+  "dgSpecHash": "K0wK+p8oGnm4nMMAqUjlpo0RsaMeRP7955PYQ2hwhxaJYP8EMEy0yYfMv4FypmYkBl6JYGLKxUcebrWLvXI42A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Projects\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj",
+  "projectFilePath": "C:\\Users\\hakan\\OneDrive\\Belgeler\\Github_Repositories\\PitonTechnology-TaskManager\\TaskManager\\TaskManager.Entities\\TaskManager.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hakan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hakan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
